@@ -5,7 +5,7 @@ import { HttpService } from '../../services/http.service';
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
-  styleUrls: ['./home.component.scss']
+  styleUrls: ['./css/styles.css']
 })
 export class HomeComponent implements OnInit {
 

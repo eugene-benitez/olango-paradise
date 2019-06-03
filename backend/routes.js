@@ -12,3 +12,4 @@ module.exports = app => {
             res.sendFile(path.resolve("./public/dist/public/index.html"))
         })
 };
+
